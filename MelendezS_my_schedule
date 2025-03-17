@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Shahim's	Schedule</title>
+</head>
+<body>
+	<table>
+
+		<tr>
+        	<td>Monday</td>
+            <td>Tuesday</td>
+            <td>Wednesday</td>
+            <td>Thursday</td>
+            <td>Friday</td>
+            
+            
+        </th>
+        
+        
+        <tr>
+        	<td>period 1</td>
+            <td>Freshman Advisory</td>
+            <td>Crmya</td>
+            <td>Freshman Advisory</td>
+            <td>Crmya</td>
+            <td>Freshman Advisory</td>
+        
+        <tr>
+        
+        
+        
+        <tr>
+        
+            <td>period 2</td>
+            <td>Intro to webZ development
+       
+     </body>
+     </html>
